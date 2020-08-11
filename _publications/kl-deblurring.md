@@ -5,7 +5,6 @@ permalink: /publication/kl-deblurring
 date: 2019-07-09
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8758192'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 QR codes enable businesses to seamlessly link their physical and digital marketing campaigns by offering audiences the option to quickly access a business' website (or any other digital asset) using their smartphone.
 
