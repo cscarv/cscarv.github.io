@@ -20,8 +20,9 @@ Instead of taking the usual approach of minimizing a regularized loss over the s
 
 We use Fenchel-Rockafellar duality to transform this infinite-dimensional problem into a smooth, convex, and finite-dimensional optimization problem which can be solved using standard gradient-based optimizers. The resulting algorithm is easy to implement and achieves state-of-the-art results in the blind deblurring of QR codes.
 
-This synthetic example demonstrates the output of our algorithm (right) given the highly blurred image on the left:
+This synthetic example demonstrates the output of our algorithm (right) given a QR code that has been subjected to severe motion blur (left):
 
-
+![Blurry QR code](images/Var(0.01)Width(29)Blurw(21)Upscl(3)blurred.png "Blurry QR code")
+![Output of our algorithm](images/FinalVar(0.01)Width(29)Blurw(21)Upscl(3)normalizeddeblurred.png "Ours")
 
 [Download paper here](http://www.math.mcgill.ca/rchoksi/pub/KL.pdf)
