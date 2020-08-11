@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christopher Scarvelis"
 title_separator          : "-"
 name                     : &name "Christopher Scarvelis"
-description              : &description "PhD Researcher at MIT CSAIL"
+description              : &description "PhD Candidate at MIT CSAIL"
 url                      : https://cscarv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cscarv/cscarv.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Christopher Scarvelis"
   avatar           : "Christopher headshot May 2019 retouched again.jpg"
-  bio              : "PhD Researcher at MIT CSAIL"
-  location         : "Cambridge, MA"
+  bio              : "PhD Candidate at MIT CSAIL"
+  location         :
   employer         : "Massachusetts Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D5LCU9wAAAAJ"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  - scope:
+#      path: ""
+#      type: teaching
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _publications
   - scope:
       path: ""
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
   # _talks
   - scope:
       path: ""
