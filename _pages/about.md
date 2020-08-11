@@ -12,7 +12,7 @@ I'm excited to be joining Prof. Justin Solomon's [Geometric Data Processing Grou
 
 I'm currently completing a research internship at McGill University in Montreal under Prof. Prakash Panangaden. We're working on developing efficiently computable approximations to optimal transport distances.
 
-Check out my Publications page to learn more about the projects I've worked on.
+Check out my [Publications](https://cscarv.github.io/publications) page to learn more about the projects I've worked on.
 
 Education
 ======
