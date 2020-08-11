@@ -2,7 +2,7 @@
 title: "Maximum Entropy on the Mean Image Deblurring"
 collection: publications
 permalink: /publication/memm-inverse-problems
-date: 2020-05
+date: 2020-05-01
 venue: 'Inverse Problems (submitted)'
 paperurl: 'https://arxiv.org/abs/2002.10434'
 ---
