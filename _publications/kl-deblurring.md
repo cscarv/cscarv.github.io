@@ -26,4 +26,3 @@ This synthetic example demonstrates the output of our algorithm (right) given a 
 ![Output of our algorithm](/images/FinalVar(0.01)Width(29)Blurw(21)Upscl(3)normalizeddeblurred.png "Ours")
 
 [Download paper here](http://www.math.mcgill.ca/rchoksi/pub/KL.pdf)
-s
