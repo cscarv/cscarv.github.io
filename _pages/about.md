@@ -14,7 +14,7 @@ I'm currently completing a research internship at McGill University in Montreal 
 
 Check out my [Publications](https://cscarv.github.io/publications) page to learn more about the projects I've worked on.
 
-Education
+Background
 ======
 I'm an incoming PhD candidate at Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the MIT Computer Science and Artificial Intelligence Lab.
 
