@@ -1,8 +1,9 @@
 ---
 layout: archive
-# title: "CV" # uncomment to show page
+title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
+published: false
 redirect_from:
   - /resume
 ---
