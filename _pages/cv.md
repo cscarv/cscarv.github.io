@@ -4,7 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: false
 published: false
-exclude: true
 redirect_from:
   - /resume
 ---
