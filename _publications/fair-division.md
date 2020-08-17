@@ -3,7 +3,6 @@ title: "An Asymptotic PTAS for a Special Case of Minimum Makespan Job Scheduling
 collection: publications
 permalink: /publication/fair-division
 date: 2019-08-16
-venue: 'Unpublished technical report'
 ---
 In this project, we developed an asymptotic polynomial-time approximation scheme (APTAS) for a special case of the minimum makespan job scheduling problem with job cost constraints motivated by applications to fair chore division problems.
 
