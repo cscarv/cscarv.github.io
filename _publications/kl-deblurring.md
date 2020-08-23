@@ -1,6 +1,5 @@
 ---
 title: "Blind Deblurring of Barcodes via Kullback-Leibler Divergence"
-authors: "Gabriel Rioux, Christopher Scarvelis, Rustum Choksi, Tim Hoheisel, Pierre Marechal'
 collection: publications
 permalink: /publication/kl-deblurring
 date: 2019-07-09
@@ -8,6 +7,10 @@ venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8758192'
 ---
 In this project, I helped develop the state of the art algorithm for deblurring QR codes. Our method is able to handle much more severe blurs than have previously been considered in the literature. As a bonus, it's easy to implement using well-documented Python packages.
+
+### Authors
+
+Gabriel Rioux, Christopher Scarvelis, Rustum Choksi, Tim Hoheisel, Pierre Maréchal
 
 ### Background
 
