@@ -1,6 +1,6 @@
 ---
 title: "Blind Deblurring of Barcodes via Kullback-Leibler Divergence"
-author: "Gabriel Rioux, Christopher Scarvelis, Rustum Choksi, Tim Hoheisel, Pierre Marechal'
+authors: "Gabriel Rioux, Christopher Scarvelis, Rustum Choksi, Tim Hoheisel, Pierre Marechal'
 collection: publications
 permalink: /publication/kl-deblurring
 date: 2019-07-09
