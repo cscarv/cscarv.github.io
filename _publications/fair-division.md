@@ -8,6 +8,10 @@ paperurl: '/files/Scheduling algorithm writeup.pdf'
 ---
 In this project, we developed an asymptotic polynomial-time approximation scheme (APTAS) for a special case of the minimum makespan job scheduling problem with job cost constraints motivated by applications to fair chore division problems.
 
+### Authors
+
+Christopher Scarvelis, Adrian Vetta
+
 ### Background
 
 Fairly distributing tasks among a set of agents based on their reported per-task costs is a computationally difficult problem. One common setup, the so-called minimum makespan job scheduling problem, has long been known to be NP-hard. In fact, it's NP-hard to compute a solution to this problem that's always "sufficiently close" to optimal.
