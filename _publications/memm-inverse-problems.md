@@ -3,7 +3,7 @@ title: "Maximum Entropy on the Mean Image Deblurring"
 collection: publications
 permalink: /publication/memm-inverse-problems
 date: 2020-05-01
-venue: 'Inverse Problems (submitted)'
+venue: 'Inverse Problems'
 paperurl: 'https://arxiv.org/abs/2002.10434'
 ---
 This paper extends our earlier work on QR code deblurring to the case of general images. We develop a deblurring algorithm that achieves strong results on images that include calibration patterns and in cases where the blur kernel is known in advance.
