@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I recently joined Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I'll be working on geometric problems in machine learning, with a particular emphasis on computational optimal transport.
+I recently joined Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! My current research uses and develops methods in geometric deep learning and optimal transport and is primarily directed towards applications in the life sciences. Some of my active projects include:
 
-Last summer, I completed a research internship at McGill University in Montreal under Prof. Prakash Panangaden. We worked on developing efficiently computable approximations to optimal transport distances.
+- An academic collaboration with [InVivo AI](https://www.invivoai.com/). We're developing self-supervised techniques to automatically learn 3D-structure-aware vector representations of molecules from their molecular graphs.
+- Building chemically meaningful distance measures for mass spectrometry output data. (The downstream problem: Given the mass spectrum of an unknown molecule, can identify the spectrum of the "most chemically similar" molecule in a database of known mass spectra?)
+- Learning to hierarchically aggregate features from unstructured data.
 
-Check out my [Publications](https://cscarv.github.io/publications) page to learn more about the projects I've worked on.
+Check out my [Publications](https://cscarv.github.io/publications) page to learn more about past projects that I've worked on.
 
 Background
 ======
