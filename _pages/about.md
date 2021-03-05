@@ -10,7 +10,7 @@ redirect_from:
 
 I recently joined Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I work on geometric problems in machine learning, with a particular emphasis on geometric deep learning and optimal transport. Some of my active projects include:
 
-- An academic collaboration with [InVivo AI](https://www.invivoai.com/). We're developing self-supervised techniques to automatically learn 3D-structure-aware vector representations of molecules from their molecular graphs.
+- An academic collaboration with [Valence Discovery](https://www.valencediscovery.com/). We're developing self-supervised techniques to automatically learn 3D-structure-aware vector representations of molecules from their molecular graphs.
 - Building chemically meaningful distance measures for mass spectrometry output data. (The downstream problem: Given the mass spectrum of an unknown molecule, can we identify the spectrum of the "most chemically similar" molecule in a database of known mass spectra?)
 - Learning to hierarchically aggregate features from unstructured data.
 
