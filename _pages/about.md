@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a research intern with  Prof. [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Twitter [Cortex](https://cortex.twitter.com/) group! 
+I'm spending the summer interning with  Prof. [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Twitter [Cortex](https://cortex.twitter.com/) group! 
 
 I recently joined Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I work on geometric problems in machine learning, with a particular emphasis on geometric deep learning and optimal transport. Some of my active projects include:
 
