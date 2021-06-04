@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+I'm currently a research intern with  Prof. [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Twitter [Cortex](https://cortex.twitter.com/) group! 
+
 I recently joined Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I work on geometric problems in machine learning, with a particular emphasis on geometric deep learning and optimal transport. Some of my active projects include:
 
-- An academic collaboration with [Valence Discovery](https://www.valencediscovery.com/). We're developing self-supervised techniques to automatically learn 3D-structure-aware vector representations of molecules from their molecular graphs.
+- Developing an extension of the Benamou-Brenier formulation of optimal transport to allow for the advection of probability measures along learnable paths.
 - Building chemically meaningful distance measures for mass spectrometry output data. (The downstream problem: Given the mass spectrum of an unknown molecule, can we identify the spectrum of the "most chemically similar" molecule in a database of known mass spectra?)
-- Learning to hierarchically aggregate features from unstructured data.
-
-I'm also excited to be joining Prof. [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Twitter [Cortex](https://cortex.twitter.com/) team for a research internship this summer! 
 
 Check out my [Publications](https://cscarv.github.io/publications) page to learn more about past projects that I've worked on.
 
