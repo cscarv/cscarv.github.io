@@ -17,6 +17,8 @@ I recently joined Prof. Justin Solomon's [Geometric Data Processing Group](https
 
 Check out my [Publications](https://cscarv.github.io/publications) page to learn more about past projects that I've worked on.
 
+I'm grateful to be supported by a 2022 Siebel Scholarship and an NSERC PGS-D Scholarship.
+
 Background
 ======
 I'm a PhD candidate in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/).
