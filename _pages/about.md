@@ -15,7 +15,7 @@ I spent last summer interning with  Prof. [Michael Bronstein](https://www.imperi
 Some of my active projects include:
 
 - Learning-augmented dynamical optimal transport.
-  - Suppose that we have a latent population that's evolving over time, and all we can observe is a time series of *different* samples from the population. (e.g. At time t<sub>0</sub>, we observe n samples from the population, and at time t<sub>1</sub> we observe n new samples from the population.) Can we infer the trajectory taken by a single member of the population over time without having ever seen any complete trajectories? I'm developing tools that allow us to answer questions like this one.
+  - Suppose we have a latent population that's evolving over time, and all we can observe is a time series of *different* samples from the population. (So at time t<sub>0</sub>, we observe n samples from the population, and at time t<sub>1</sub> we observe n *new* samples from the population.) Can we infer the path taken by a single member of the population over time without having ever seen any complete trajectories? I'm developing tools that allow us to answer questions like this one.
 - Fokker-Planck message passing, which enables directional, long-distance feature aggregation across the nodes of continuously-embedded graphs.
 - Using contrastive learning to learn better features for molecular property prediction from mass spectra.
 
