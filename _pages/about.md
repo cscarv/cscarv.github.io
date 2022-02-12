@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I work on geometric problems in machine learning, with a particular emphasis on geometric deep learning and optimal transport. 
 
-I spent last summer interning with  Prof. [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Learning Methods team at Twitter [Cortex](https://cortex.twitter.com/)!
+I spent last summer interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter [Cortex](https://cortex.twitter.com/)!
 
 Some of my active projects include:
 
