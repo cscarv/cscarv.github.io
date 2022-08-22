@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I work on geometric problems in machine learning, with a particular emphasis on geometric deep learning and optimal transport. 
+I'm a third-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT! I work on geometric problems in machine learning, with a particular emphasis on geometric deep learning and optimal transport. 
 
-I spent last summer interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter [Cortex](https://cortex.twitter.com/)!
-
-Some of my active projects include:
+Some of my recent projects include:
 
 - Learning-augmented dynamical optimal transport.
   - Suppose we have a latent population that's evolving over time, and all we can observe is a time series of *different* samples from the population. (So at time t<sub>0</sub>, we observe n samples from the population, and at a subsequent time t<sub>1</sub> we observe n *new* samples from the population.) Can we infer the path taken by a single member of the population over time without having ever seen any complete trajectories? I'm developing tools that allow us to answer questions like this one.
@@ -21,11 +19,11 @@ Some of my active projects include:
 
 Check out my [Publications](https://cscarv.github.io/publications) page to learn more about past projects that I've worked on.
 
-I'm grateful to be supported by a 2022 Siebel Scholarship and an NSERC PGS-D Scholarship.
-
 Background
 ======
-I'm a PhD candidate in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/).
+I'm a third-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/), where I work on methods for learning geometric structure for non-Euclidean data. I'm grateful to be supported by a 2022 Siebel Scholarship and an NSERC PGS-D Scholarship.
+
+I've spent Summer 2021 and 2022 interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter [Cortex](https://cortex.twitter.com/)!
 
 I completed my undergrad degree in mathematics and economics at McGill University in Montreal. At McGill, I had the privilege of working with:
 
