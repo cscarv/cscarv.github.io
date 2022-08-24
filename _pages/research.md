@@ -23,3 +23,7 @@ But sometimes the default geometry of our data isnâ€™t right for the problem weâ
 Many real-world graphs have the *small-world property*. Most nodes are close to one another in these graphs, causing graph neural nets to exhibit pathological behavior like *over-smoothing* and *over-squashing*. These phenomena make it difficult to transmit information between distant node pairs.
 
 Assuming a Euclidean geometry for *mass spectra* hinders the performance of machine learning methods for biochemical problems such as mass spectral library search and molecular property prediction.
+
+More broadly, we might believe that our data lies on a thin manifold in high-dimensional space but have no way to describe it. Learning a *generative model* of our data distribution gives a path towards a description of our data's geometry.
+
+Informed by these issues, my research centers on developing methods for **learning geometric structure** for non-Euclidean data that is well-adapted to the tasks we typically hope to solve.
