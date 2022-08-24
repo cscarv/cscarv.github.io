@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-published: true
+published: false
 redirect_from:
   - /research
 ---
@@ -18,8 +18,8 @@ Some of the most exciting recent developments in machine learning exploit the *g
 - [Predict functional regions in the cerebral cortex](https://research.facebook.com/publications/convolutional-neural-networks-for-mesh-based-parcellation-of-the-cerebral-cortex/)
 - [Predict molecular dynamics](https://www.nature.com/articles/s41467-022-29939-5)
 
-But sometimes the default geometry of our data… isn’t right for the problem we’d like to solve.
+But sometimes the default geometry of our data isn’t right for the problem we’d like to solve.
 
-Many real-world graphs have the small-world property. Most nodes are close to one another in these graphs, causing graph neural nets to exhibit pathological behavior like over-smoothing and over-squashing that make it difficult to transmit information between distant node pairs.
+Many real-world graphs have the *small-world property*. Most nodes are close to one another in these graphs, causing graph neural nets to exhibit pathological behavior like *over-smoothing* and *over-squashing*. These phenomena make it difficult to transmit information between distant node pairs.
 
-Assuming a Euclidean geometry for 
+Assuming a Euclidean geometry for *mass spectra* hinders the performance of machine learning methods for biochemical problems such as mass spectral library search and molecular property prediction.
