@@ -20,7 +20,7 @@ Some of the most exciting recent developments in machine learning exploit the *g
 
 But oftentimes, **the default geometry of our data isn’t right for the problem we’d like to solve.** 
 
-## Some examples
+### Some examples
 
 - Many real-world graphs have the *small-world property*. Most nodes are close to one another in these graphs, causing graph neural nets to exhibit pathological behavior like *over-smoothing* and *over-squashing*. These phenomena make it difficult to transmit information between distant node pairs.
 - Assuming a Euclidean geometry for *mass spectra* hinders the performance of machine learning methods for biochemical problems like mass spectral library search and molecular property prediction.
@@ -28,7 +28,7 @@ But oftentimes, **the default geometry of our data isn’t right for the problem
 
 Informed by these issues, my research centers on developing methods for **learning geometric structure for non-Euclidean data** that's well-adapted to the tasks we'd like to solve.
 
-## My active projects
+### My active projects
 
 - Graph reweighting to align a graph's geometry with inter-node affinities. These affinities typically come from an attention mechanism that compares features between all pairs of nodes in the graph.
 - Using contrastive learning to learn a chemically-informative geometry for mass spectra.
