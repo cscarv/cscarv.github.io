@@ -10,13 +10,13 @@ redirect_from:
 
 Some of the most exciting recent developments in machine learning exploit the *geometry* of objects like molecules, shapes, and social networks to:
 
-- [Discover new antibiotics](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
-- [Predict the physics of glass](https://www.nature.com/articles/s41567-020-0842-8)
-- [Generate product recommendations at massive scale](https://www.amazon.science/publications/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation)
-- [Predict protein interaction sites](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf)
-- [Classify particle jets in the Large Hadron Collider](https://arxiv.org/abs/1902.08570)
-- [Predict functional regions in the cerebral cortex](https://research.facebook.com/publications/convolutional-neural-networks-for-mesh-based-parcellation-of-the-cerebral-cortex/)
-- [Predict molecular dynamics](https://www.nature.com/articles/s41467-022-29939-5)
+- Discover new antibiotics [(Stokes et al., 2020)](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
+- Predict the physics of glass [(Bapst et al., 2020)](https://www.nature.com/articles/s41567-020-0842-8)
+- Generate product recommendations at massive scale [(Hao et al., 2020))](https://www.amazon.science/publications/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation)
+- Predict protein interaction sites [(Sverrisson et al., 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf)
+- Classify particle jets in the Large Hadron Collider [(Qu and Gouskos, 2019)](https://arxiv.org/abs/1902.08570)
+- Predict functional regions in the cerebral cortex [(Cucurull et al., 2018)](https://research.facebook.com/publications/convolutional-neural-networks-for-mesh-based-parcellation-of-the-cerebral-cortex/)
+- Predict molecular dynamics [(Batzner et al., 2022)](https://www.nature.com/articles/s41467-022-29939-5)
 
 But oftentimes, **the default geometry of our data isn’t right for the problem we’d like to solve.** 
 
@@ -28,8 +28,8 @@ But oftentimes, **the default geometry of our data isn’t right for the problem
 
 Informed by these issues, my research centers on developing methods for **learning geometric structure for non-Euclidean data** that's well-adapted to the tasks we'd like to solve.
 
-### My active projects
+## My active projects include:
 
 - Graph reweighting to align a graph's geometry with inter-node affinities. These affinities typically come from an attention mechanism that compares features between all pairs of nodes in the graph.
 - Using contrastive learning to learn a chemically-informative geometry for mass spectra.
-- Flow-based generative modeling using optimal transport. We hope to use our methods to efficiently model distributions over non-Euclidean objects like point clouds.
+- Flow-based generative modeling using optimal transport. We seek to use our methods to efficiently model distributions over non-Euclidean objects like point clouds.
