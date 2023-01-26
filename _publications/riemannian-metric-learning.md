@@ -1,8 +1,9 @@
 ---
 title: "Riemannian Metric Learning via Optimal Transport"
 collection: publications
+permalink: /publication/rml-ot
 date: 2022-05-18
-venue: 'ICLR 2023'
+venue: "ICLR 2023"
 paperurl: [https://arxiv.org/abs/2205.09244]
 ---
 
