@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/), where I work on methods for learning geometric structure for non-Euclidean data. I'm grateful to be supported by a 2022 Siebel Scholarship and an NSERC PGS-D Scholarship.
+I'm a fourth-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). My research seeks to understand the role of neural networks in generative modeling and build **generative models without neural networks**. I'm grateful to be supported by a 2022 Siebel Scholarship and an NSERC Postgraduate Doctoral Scholarship (PGS-D).
 
 I've spent Summer 2021 and 2022 interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter [Cortex](https://cortex.twitter.com/)!
 
