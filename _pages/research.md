@@ -8,28 +8,11 @@ redirect_from:
   - /research
 ---
 
-Some of the most exciting recent developments in machine learning exploit the *geometry* of objects like molecules, shapes, and social networks to:
 
-- Discover new antibiotics [(Stokes et al., 2020)](https://www.sciencedirect.com/science/article/pii/S0092867420301021)
-- Predict the physics of glass [(Bapst et al., 2020)](https://www.nature.com/articles/s41567-020-0842-8)
-- Generate product recommendations at massive scale [(Hao et al., 2020))](https://www.amazon.science/publications/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation)
-- Predict protein interaction sites [(Sverrisson et al., 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf)
-- Classify particle jets in the Large Hadron Collider [(Qu and Gouskos, 2019)](https://arxiv.org/abs/1902.08570)
-- Predict functional regions in the cerebral cortex [(Cucurull et al., 2018)](https://research.facebook.com/publications/convolutional-neural-networks-for-mesh-based-parcellation-of-the-cerebral-cortex/)
-- Predict molecular dynamics [(Batzner et al., 2022)](https://www.nature.com/articles/s41467-022-29939-5)
+Generative models have driven some the most exciting developments in machine learning, from [image synthesis](https://arxiv.org/abs/2112.10752) to [text generation](https://arxiv.org/abs/2204.02311) to [drug discovery](https://arxiv.org/abs/2210.01776). But despite steady progress in reducing their size and speeding up their training, generative models – implemented in practice using neural networks – remain very *costly* to train and to sample from. For example, [a single training run for Stable Diffusion costs $600,000](https://the-decoder.com/training-cost-for-stable-diffusion-was-just-600000-and-that-is-a-good-sign-for-ai-progress/).
 
-But oftentimes, **the default geometry of our data isn’t right for the problem we’d like to solve.** 
+Furthermore, generative models are black boxes: We can generate samples from a generative model but know little about their distribution. This limits the use of such models in sensitive applications such as healthcare, where adoption of AI-driven methods hinges on their *interpretability*.
 
-### Some examples
+Motivated by these pressing challenges, my research questions the role of neural networks in generative modeling and seeks to build **generative models without neural networks**. These models require no training, are efficient to sample from, and are based on well-understood classical methods.
 
-- Many real-world graphs have the *small-world property*. Most nodes are close to one another in these graphs, causing graph neural nets to exhibit pathological behavior like *over-smoothing* and *over-squashing*. These phenomena make it difficult to transmit information between distant node pairs.
-- Assuming a Euclidean geometry for *mass spectra* hinders the performance of machine learning methods for biochemical problems like mass spectral library search and molecular property prediction.
-- More broadly, we might believe that our data lies on a thin manifold in high-dimensional space but have no way to describe it. Learning a *generative model* of our data distribution gives a path towards a description of our data's geometry.
-
-Informed by these issues, my research centers on developing methods for **learning geometric structure for non-Euclidean data** that's well-adapted to the tasks we'd like to solve.
-
-## My active projects include:
-
-- Graph reweighting to align a graph's geometry with inter-node affinities. These affinities typically come from an attention mechanism that compares features between all pairs of nodes in the graph.
-- Using contrastive learning to learn a chemically-informative geometry for mass spectra.
-- Flow-based generative modeling using optimal transport. We seek to use our methods to efficiently model distributions over non-Euclidean objects like point clouds.
+I aim to make generative AI *accessible* by reducing our domain's reliance on costly and poorly-understood models in favor of efficient and well-understood methods that are transparent to both theoreticians and end users and can run on commodity hardware. Through my emphasis on *interpretability*, I also seek to further broaden the impact of generative AI by developing models that are suitable for sensitive domains.
