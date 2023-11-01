@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/cfdm
 date: 2023-11-19
 venue: "Under review"
-paperurl: [/files/Scheduling algorithm writeup.pdf](https://arxiv.org/abs/2310.12395)]
+paperurl: '/files/Scheduling algorithm writeup.pdf](https://arxiv.org/abs/2310.12395)'
 ---
 ### Authors
 
