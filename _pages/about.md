@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). I work on machine learning problems where **scale fails**: Where naively scaling up training data, model size, or the number of training iterations is either impossible, fails to yield the promised improvements, or even leads to unexpected – and unwanted – results. I'm grateful to be supported by a 2024 Exponent Fellowship. I've also been supported by a 2022 Siebel Scholarship and an NSERC Postgraduate Doctoral Scholarship (PGS-D).
+I'm a fifth-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). I work on **machine learning** problems where **scale fails**: Where naively scaling up training data, model size, or the number of training iterations is either impossible, fails to yield the promised improvements, or even leads to unexpected – and unwanted – results. I'm grateful to be supported by a 2024 Exponent Fellowship. I've also been supported by a 2022 Siebel Scholarship and an NSERC Postgraduate Doctoral Scholarship (PGS-D).
 
 I spent Summer 2024 interning with Dr. Paul Zhang at Backflip AI, a 3D generative AI startup based in San Francisco. We developed a state-of-the-art method for orienting 3D shapes, which you can read all about in [Orient Anything](https://arxiv.org/abs/2410.02101).
 
