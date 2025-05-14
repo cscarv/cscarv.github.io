@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fifth-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). I work on **machine learning** problems where **scale fails**: Where naively scaling up training data, model size, or the number of training iterations is either impossible, fails to yield the promised improvements, or even leads to unexpected – and unwanted – results. 
 
-I'm grateful to be supported by a 2024 Exponent Fellowship and an Amazon Research Award. I've also been supported by a 2022 Siebel Scholarship and an NSERC Postgraduate Doctoral Scholarship (PGS-D).
+I’m grateful to have been supported by a 2025-2026 MIT-Google Future Research Cohort Fellowship, a 2024 Exponent Fellowship, a 2022 Siebel Scholarship, and an NSERC PGS-D Scholarship. I'm also grateful for an MIT-Google Program for Computing Innovation Grant, which has helped fund my work in data attribution for diffusion models, and for an Amazon Research Award, which has helped fund my work on closed-form diffusion models.
 
 I spent Summer 2024 interning with Dr. Paul Zhang at Backflip AI, a 3D generative AI startup based in San Francisco. We developed a state-of-the-art method for orienting 3D shapes, which you can read all about in [Orient Anything](https://arxiv.org/abs/2410.02101).
 
