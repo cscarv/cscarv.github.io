@@ -21,7 +21,7 @@ I'm also grateful to have had the opportunity to co-author successful proposals 
 
 I'll be spending Summer 2025 interning with Dr. [Kristjan Greenewald](https://kgreenewald.github.io/) at the MIT-IBM Watson AI Lab.
 
-I spent Summer 2024 interning with Dr. Paul Zhang at Backflip AI, a 3D generative AI startup based in San Francisco. We developed a state-of-the-art method for orienting 3D shapes, which you can read all about in [Orient Anything](https://arxiv.org/abs/2410.02101).
+I spent Summer 2024 interning with Dr. Paul Zhang at Backflip AI, a 3D generative AI startup based in San Francisco. We developed a state-of-the-art method for orienting 3D shapes, which you can read all about in [Symmetry-Robust 3D Orientation Estimation](https://arxiv.org/abs/2410.02101).
 
 I spent Summer 2021 and 2022 interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter Cortex.
 
