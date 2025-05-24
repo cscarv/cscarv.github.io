@@ -10,11 +10,20 @@ redirect_from:
 
 I'm a fifth-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). I work on **machine learning** problems where **scale fails**: Where naively scaling up training data, model size, or the number of training iterations is either impossible, fails to yield the promised improvements, or even leads to unexpected – and unwanted – results. 
 
-I’m grateful to have been supported by a 2025-2026 MIT-Google Future Research Cohort Fellowship, a 2024 Exponent Fellowship, a 2022 Siebel Scholarship, and an NSERC PGS-D Scholarship. I'm also grateful for an MIT-Google Program for Computing Innovation Grant, which has helped fund my work in data attribution for diffusion models, and for an Amazon Research Award, which has helped fund my work on closed-form diffusion models.
+I’m grateful to have been supported by:
+
+- A 2025-2026 MIT-Google Future Research Cohort Fellowship,
+- a 2024 Exponent Fellowship,
+- a 2022 Siebel Scholarship, and
+- an NSERC PGS-D Scholarship.
+
+I'm also grateful to have had the opportunity to co-author successful proposals for an MIT-Google Program for Computing Innovation Grant, which will help fund my work in data attribution for diffusion models, and for an Amazon Research Award, which has helped fund my work on closed-form diffusion models.
+
+I'll be spending Summer 2025 interning with Dr. [Kristjan Greenewald](https://kgreenewald.github.io/) at the MIT-IBM Watson AI Lab.
 
 I spent Summer 2024 interning with Dr. Paul Zhang at Backflip AI, a 3D generative AI startup based in San Francisco. We developed a state-of-the-art method for orienting 3D shapes, which you can read all about in [Orient Anything](https://arxiv.org/abs/2410.02101).
 
-I spent Summer 2021 and 2022 interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter [Cortex](https://cortex.twitter.com/)!
+I spent Summer 2021 and 2022 interning with  Prof. [Michael Bronstein](https://en.wikipedia.org/wiki/Michael_Bronstein) and the Learning Methods team at Twitter Cortex.
 
 I completed my undergrad degree in mathematics and economics at McGill University in Montreal. At McGill, I had the privilege of working with:
 
