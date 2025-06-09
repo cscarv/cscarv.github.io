@@ -1,5 +1,5 @@
 ---
-title: "Orient Anything"
+title: "Symmetry-Robust 3D Orientation Estimation"
 collection: publications
 permalink: /publication/orient-anything
 date: 2024-10-02
