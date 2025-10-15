@@ -9,28 +9,14 @@ redirect_from:
 ---
 
 
-Machine learning has recently made great progress by following a ["straightforward recipe"](https://arxiv.org/abs/1712.00409):
+Generative models now power systems that write code, generate photorealistic images, and design new molecules and mechanical parts. However, this success rests on a striking paradox: Generative models are built by training neural networks to optimize simple objectives on finite datasets, but these objectives are optimized in theory by trivial models that memorize their training data and cannot generate new content. **Generative models succeed in practice *because they fail* to reach these trivial optima**, and the causes of this benign failure are poorly understood.
 
-- Search for improved model architectures,
-- Create large training datasets, and
-- Scale computation.
+My research seeks to resolve this paradox by developing **a predictive theory of generative models’ behavior** that natively accounts for the role of neural architectures, the training procedure, and the training data. In one prong of my research agenda, I study how these factors interact to produce models that *generalize* by generating new content instead of regurgitating training data. In a complementary prong, I zoom in on the impact of the training data on a particular trained model's behavior. Here, I study how the composition of the training set influences the samples created by a generative model.
 
-This recipe has been wildly successful: It’s delivered software that can generate realistic images, chatbots that can solve challenging math problems [roughly on par with a (mediocre) grad student](https://mathstodon.xyz/@tao/113132502735585408), and algorithms that can generate high-quality 3D assets based on a single 2D image.
+Some of my recent work includes:
 
-**But this recipe doesn’t always work!** In my research, I’ve identified several real-world machine learning problems where naively scaling up training data, model size, or the number of training iterations is either impossible, fails to yield the promised improvements, or even leads to unexpected – and unwanted – results.
+- A theoretical characterization of a diffusion model's samples under a *smoothness* bias, which is shared by common neural architectures. ([Closed-Form Diffusion Models](https://arxiv.org/abs/2310.12395), TMLR 2025)
+- A natural regularizer that exploits the compositional structure of neural networks to efficiently control their local geometry. ([Nuclear Norm Regularization for Deep Learning](https://arxiv.org/abs/2405.14544), NeurIPS 2024)
+- An exact sensitivity analysis for diffusion models, which can be used to predict how a diffusion model's samples respond to changes in its training data. ([Sensitivity Analysis for Diffusion Models](https://arxiv.org/abs/2509.23092), under review)
 
-For example:
-
-- Training a [3D orienter](https://arxiv.org/abs/2410.02101) on symmetric shapes yields incorrect solutions – no matter how much training data and compute you throw at the problem.
-- Training a neural network with a [natural low-rank regularizer](https://arxiv.org/abs/2405.14544) is intractable given any currently feasible compute budgets.
-- [Training a diffusion model to optimality](https://arxiv.org/abs/2310.12395) – with enough training iterations and a sufficiently large, high-capacity neural network, makes it unable to generate new samples.
-
-For each of these problems, I’ve developed alternative approaches that avoid these fundamental issues and that are then amenable to scale.
-
-My work complements scale. I aim to build a fundamental understanding of machine learning problems to answer questions like...
-
-- *Are* we solving the problem we think we’re solving?
-- *Can* we solve that problem?
-- Should we be solving a *different* problem?
-
-...before spending valuable time and compute training – and inevitably debugging – a neural pipeline.
+I've also worked in [optimal transport](https://arxiv.org/abs/2205.09244) and in [3D deep learning](https://arxiv.org/abs/2410.02101).
