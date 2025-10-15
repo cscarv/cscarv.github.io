@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). I work on **machine learning** problems where **scale fails**: Where naively scaling up training data, model size, or the number of training iterations is either impossible, fails to yield the promised improvements, or even leads to unexpected – and unwanted – results. 
+I'm a **final-year PhD student** in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). **I'm on the academic job market in fall 2025.** I'm also interested in chatting about research roles in industry.
+
+I work towards understanding the behavior of generative models, particularly diffusion models. I'm especially interested in two questions:
+
+- Why do generative models generate new content instead of merely memorizing their training data?
+- How does a generative model's behavior depend on its training data?
+
+You can read more about my research [here](https://cscarv.github.io/research/).
 
 I’m grateful to have been supported by:
 
@@ -19,7 +26,7 @@ I’m grateful to have been supported by:
 
 I'm also grateful to have had the opportunity to co-author successful proposals for an MIT-Google Program for Computing Innovation Grant, which will help fund my work in data attribution for diffusion models, and for an Amazon Research Award, which has helped fund my work on closed-form diffusion models.
 
-I'll be spending Summer 2025 interning with Dr. [Kristjan Greenewald](https://kgreenewald.github.io/) at the MIT-IBM Watson AI Lab.
+I spent Summer 2025 interning with Dr. [Kristjan Greenewald](https://kgreenewald.github.io/) and Dr. [Leshem Choshen](https://research.ibm.com/people/leshem-choshen--1) at the MIT-IBM Watson AI Lab. We worked on model merging methods for LLMs.
 
 I spent Summer 2024 interning with Dr. Paul Zhang at Backflip AI, a 3D generative AI startup based in San Francisco. We developed a state-of-the-art method for orienting 3D shapes, which you can read all about in [Symmetry-Robust 3D Orientation Estimation](https://arxiv.org/abs/2410.02101).
 
