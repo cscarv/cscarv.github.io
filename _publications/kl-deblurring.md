@@ -2,7 +2,7 @@
 title: "Blind Deblurring of Barcodes via Kullback-Leibler Divergence"
 collection: publications
 permalink: /publication/kl-deblurring
-date: 2019-07-09
+date: 2021-01-01
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8758192'
 ---
