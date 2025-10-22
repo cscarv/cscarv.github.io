@@ -12,8 +12,8 @@ I'm a **final-year PhD student** in Prof. Justin Solomon's [Geometric Data Proce
 
 I work towards understanding the behavior of generative models, particularly diffusion models. I'm especially interested in two questions:
 
-- Why do generative models generate new content instead of merely memorizing their training data?
-- How does a generative model's behavior depend on its training data?
+- *Why do generative models generate new content instead of merely memorizing their training data?*
+- *How does a generative model's behavior depend on its training data?*
 
 You can read more about my research [here](https://cscarv.github.io/research/).
 
@@ -24,7 +24,7 @@ I’m grateful to have been supported by:
 - a 2022 Siebel Scholarship, and
 - an NSERC PGS-D Scholarship.
 
-I'm also grateful to have had the opportunity to co-author successful proposals for an MIT-Google Program for Computing Innovation Grant, which will help fund my work in data attribution for diffusion models, and for an Amazon Research Award, which has helped fund my work on closed-form diffusion models.
+I'm also grateful to have had the opportunity to co-author successful proposals for an MIT-Google Program for Computing Innovation Grant, which is helping fund my work on data attribution for diffusion models, and for an Amazon Research Award, which has helped fund my work on closed-form diffusion models.
 
 I spent Summer 2025 interning with Dr. [Kristjan Greenewald](https://kgreenewald.github.io/) and Dr. [Leshem Choshen](https://research.ibm.com/people/leshem-choshen--1) at the MIT-IBM Watson AI Lab. We worked on model merging methods for LLMs.
 
