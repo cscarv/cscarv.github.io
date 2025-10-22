@@ -2,8 +2,8 @@
 title: "Riemannian Metric Learning via Optimal Transport"
 collection: publications
 permalink: /publication/rml-ot
-date: 2023-05-01
-venue: "ICLR 2023"
+date: 2023-02-01
+venue: "ICLR"
 paperurl: [https://arxiv.org/abs/2205.09244]
 ---
 
@@ -16,5 +16,3 @@ Christopher Scarvelis, Justin Solomon
 ### Technical summary
 
 Optimal transport distances depend critically on the geometry of the ground space. Given pairs of probability measures that we believe are close, we can solve an inverse problem: Determine a suitable geometry for the ground space such that the pairs of measures have small average optimal transport distance. We solve a version of this problem where the ground space's geometry is parametrized by a Riemannian metric.
-
-[Download paper here](https://arxiv.org/abs/2205.09244)
