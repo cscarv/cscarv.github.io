@@ -1,5 +1,6 @@
 ---
 title: "Closed-Form Diffusion Models"
+authors: "Christopher Scarvelis, Haitz Sáez de Ocáriz Borde, Justin Solomon"
 collection: publications
 permalink: /publication/cfdm
 date: 2025-05-01
