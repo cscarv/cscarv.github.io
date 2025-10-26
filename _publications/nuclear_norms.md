@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Norm Regularization for Deep Learning"
+authors: "Christopher Scarvelis, Justin Solomon"
 collection: publications
 permalink: /publication/nuclear-norms
 date: 2024-05-23
