@@ -1,5 +1,6 @@
 ---
 title: "Riemannian Metric Learning via Optimal Transport"
+authors: "Christopher Scarvelis, Justin Solomon"
 collection: publications
 permalink: /publication/rml-ot
 date: 2023-02-01
