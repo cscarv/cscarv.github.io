@@ -1,5 +1,6 @@
 ---
 title: "Sensitivity Analysis for Diffusion Models"
+authors: "Christopher Scarvelis, Justin Solomon"
 collection: publications
 permalink: /publication/sensitivity-analysis
 date: 2025-09-27
