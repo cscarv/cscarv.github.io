@@ -1,5 +1,6 @@
 ---
 title: "Is Your Diffusion Model Actually Denoising?"
+authors: "Daniel Pfrommer, Zehao Dou, Christopher Scarvelis, Max Simchowitz, Ali Jadbabaie"
 collection: publications
 permalink: /publication/actually-denoising
 date: 2025-09-18
