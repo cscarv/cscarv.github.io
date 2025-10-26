@@ -1,5 +1,6 @@
 ---
 title: "The Maximum Entropy on the Mean Method for Image Deblurring"
+authors: "Gabriel Rioux, Rustum Choksi, Tim Hoheisel, Pierre Maréchal, Christopher Scarvelis"
 collection: publications
 permalink: /publication/memm-inverse-problems
 date: 2020-12-14
