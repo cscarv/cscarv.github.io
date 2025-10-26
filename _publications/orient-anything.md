@@ -1,5 +1,6 @@
 ---
 title: "Symmetry-Robust 3D Orientation Estimation"
+authors: "Christopher Scarvelis, David Benhaim, Paul Zhang"
 collection: publications
 permalink: /publication/orient-anything
 date: 2025-05-01
