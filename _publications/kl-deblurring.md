@@ -1,12 +1,14 @@
 ---
 title: "Blind Deblurring of Barcodes via Kullback-Leibler Divergence"
+authors: "Gabriel Rioux, Christopher Scarvelis, Rustum Choksi, Tim Hoheisel, Pierre Maréchal"
 collection: publications
 permalink: /publication/kl-deblurring
 date: 2021-01-01
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8758192'
 ---
-In this project, I helped develop the state of the art algorithm for deblurring QR codes. Our method is able to handle much more severe blurs than have previously been considered in the literature. As a bonus, it's easy to implement using well-documented Python packages.
+
+Barcode encoding schemes impose symbolic constraints which fix certain segments of the image. We present, implement, and assess a method for blind deblurring and denoising based entirely on Kullback-Leibler divergence. The method is designed to incorporate and exploit the full strength of barcode symbologies. Via both standard barcode reading software and smartphone apps, we demonstrate the remarkable ability of our method to blindly recover simulated images of highly blurred and noisy barcodes. As proof of concept, we present one application on a real-life out of focus camera image.
 
 ### Authors
 
