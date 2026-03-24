@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **final-year PhD student** in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/). **I'm on the academic job market in fall 2025.** I'm also interested in chatting about research roles in industry.
+I'm an **incoming assistant professor of compute science at Rutgers University** (Fall 2026), where I will be leading a research group studying the foundations of diffusion models. Until then, I'm a final-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/).
 
 I work towards understanding the behavior of generative models, particularly diffusion models. I'm especially interested in two questions:
 
