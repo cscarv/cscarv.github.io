@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Scarvelis"
 title_separator          : "-"
 name                     : &name "Chris Scarvelis"
-description              : &description "PhD Candidate at MIT CSAIL"
+description              : &description "Assistant professor of CS (incoming) at Rutgers University"
 url                      : https://cscarv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cscarv/cscarv.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Chris Scarvelis"
   avatar           : "headshot_final_jan_2026_cropped.jpg"
-  bio              : "PhD Candidate at MIT CSAIL <br /> Machine Learning Research"
+  bio              : "Assistant professor of CS (incoming) at Rutgers University <br /> Foundations of generative AI"
   location         :
-  employer         : "MIT CSAIL"
+  employer         : "Rutgers University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D5LCU9wAAAAJ"
   email            : "scarv@mit.edu"
