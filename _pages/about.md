@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming assistant professor of computer science at Rutgers University (Fall 2026), where I will be leading a research group studying the foundations of diffusion models. **I'm recruiting PhD students in the 2026-27 cycle to start in Fall 2027.** If you'd like to join my lab, email me at [scarvelis.lab@gmail.com](mailto:scarvelis.lab@gmail.com) with a short description of your research interests, and I'd be happy to chat if it seems like a good fit.
+I'm an incoming assistant professor of computer science at Rutgers University (Fall 2026), where I'll be leading a research group studying the foundations of diffusion models. **I'm recruiting PhD students in the 2026-27 cycle to start in Fall 2027.** If you'd like to join my lab, I'd love to hear from you! Email me at [scarvelis.lab@gmail.com](mailto:scarvelis.lab@gmail.com) with a short description of your research interests, and I'd be happy to chat if it seems like a good fit.
 
 I work towards understanding the behavior of generative models, particularly diffusion models. I'm especially interested in two questions:
 
