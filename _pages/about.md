@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an **incoming assistant professor of computer science at Rutgers University** (Fall 2026), where I will be leading a research group studying the foundations of diffusion models. Until then, I'm a final-year PhD student in Prof. Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at the [MIT Computer Science and Artificial Intelligence Lab](https://www.csail.mit.edu/).
+I'm an incoming assistant professor of computer science at Rutgers University (Fall 2026), where I will be leading a research group studying the foundations of diffusion models. **I'm recruiting PhD students in the 2026-27 cycle to start in Fall 2027.** If you'd like to join my lab, email me at [scarvelis.lab@gmail.com](mailto:scarvelis.lab@gmail.com) with a short description of your research interests, and I'd be happy to chat if it seems like a good fit.
 
 I work towards understanding the behavior of generative models, particularly diffusion models. I'm especially interested in two questions:
 
@@ -17,7 +17,7 @@ I work towards understanding the behavior of generative models, particularly dif
 
 You can read more about my research [here](https://cscarv.github.io/research/).
 
-I’m grateful to have been supported by:
+I completed my PhD in Justin Solomon's [Geometric Data Processing Group](https://groups.csail.mit.edu/gdpgroup/) at MIT. I’m grateful to have been supported by:
 
 - A 2025-2026 MIT-Google Future Research Cohort Fellowship,
 - a 2024 Exponent Fellowship,
