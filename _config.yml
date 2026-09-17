@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Chris Scarvelis"
-  avatar           : "headshot_final_jan_2026_cropped.jpg"
-  bio              : "Assistant professor (incoming) <br /> Foundations of generative AI"
+  avatar           : "headshot_rutgers_lowres.png"
+  bio              : "Assistant professor <br /> Foundations of generative AI"
   location         :
   employer         : "Rutgers University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D5LCU9wAAAAJ"
-  email            : "scarv@mit.edu"
+  email            : "chris.scarvelis@rutgers.edu"
   researchgate     :  
   uri              :
   bitbucket        :
